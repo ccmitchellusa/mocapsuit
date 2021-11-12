@@ -15,3 +15,4 @@ Holder Center A |  4
 Holder Center B |  5
 Holder C        |  4
 Holder Lid C    |  4
+New LCD Cover   |  1
